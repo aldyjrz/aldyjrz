@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP & Js 
 - 📫 How to reach me aldyjrz@gmail.com / aldi@indoarsip.co.id
+- :smiley_cat: Lovers of cute cats and blue websites
 
 <!---
 aldyjrz/aldyjrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
