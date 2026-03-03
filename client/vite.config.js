@@ -6,7 +6,7 @@ import vue from "@vitejs/plugin-vue";
 // base should be "/" (not a subdirectory).
 export default defineConfig({
   plugins: [vue()],
-  base: "/aldyjrz/",
+  base: "/",
   server: {
     port: 5173,
   },
