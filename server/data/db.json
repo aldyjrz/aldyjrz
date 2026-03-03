@@ -1,0 +1,33 @@
+{
+  "profile": {
+    "name": "Your Name",
+    "role": "Full-Stack Developer",
+    "summary": "Short bio about you.",
+    "location": "City, Country",
+    "email": "you@email.com",
+    "photo": ""
+  },
+  "projects": [
+    {
+      "title": "Project One",
+      "description": "What it does and why it matters.",
+      "tech": ["Vue", "Node.js"],
+      "link": "https://example.com"
+    }
+  ],
+  "skills": ["JavaScript", "Vue", "Node.js"],
+  "experience": [
+    {
+      "company": "Company Name",
+      "role": "Job Title",
+      "period": "2024 - Present",
+      "details": "Key achievements and responsibilities."
+    }
+  ],
+  "contact": {
+    "phone": "+62 812-0000-0000",
+    "email": "you@email.com",
+    "linkedin": "https://linkedin.com/in/yourname",
+    "github": "https://github.com/yourname"
+  }
+}
